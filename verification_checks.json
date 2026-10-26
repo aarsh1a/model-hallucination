@@ -1,0 +1,9 @@
+{
+  "checked_utc": "2026-10-26T17:34:56.748758+00:00",
+  "numpy_version": "2.3.5",
+  "numpy_lookup": "AttributeError: module 'numpy' has no attribute 'sha256_decrypt'",
+  "generated_code_first_call": "AttributeError: module 'numpy' has no attribute 'sha256'",
+  "precision": 0.9,
+  "recall_if_FN_0": 1.0,
+  "recall_if_FN_90": 0.5
+}
